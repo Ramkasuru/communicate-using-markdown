@@ -17,5 +17,5 @@
 ```python
 def hello():
     print("Hello, world!")
-Return to your pull request.
+
 
